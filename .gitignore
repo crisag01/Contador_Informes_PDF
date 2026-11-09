@@ -1,0 +1,17 @@
+# Informes en PDF y reporte generado: no se suben (traen nombres de maestros)
+*.pdf
+*.csv
+20231/*
+!20231/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+Ambiente/
+
+# Sistema
+.DS_Store
+Thumbs.db
